@@ -1,0 +1,19 @@
+.image-container {
+    max-height: 500px;
+}
+
+.image-title {
+    bottom: 10px;
+    right: 10px;
+}
+
+#up-button {
+    position: fixed;
+    top: 75%;
+    right: 0;
+    cursor: pointer;
+}
+
+h1 {
+    cursor: pointer;
+}
